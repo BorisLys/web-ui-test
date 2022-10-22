@@ -1,2 +1,2 @@
-# web-ui-test-typescript-codeceptjs
+# web-ui-test
 Тестовый проект для улучшения навыков web ui-автоматизации 
